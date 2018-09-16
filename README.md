@@ -2,6 +2,8 @@
 
 A social blog website base on recipe and only making for food blogger.
 
+technology used on that project HTML,CSS,Bootstrap,Laravel.
+
 member:
 
 1.Md.zahid rahman.
