@@ -12,6 +12,8 @@ member:
 
 Project supervisor:
 
-Al-imran
+MD. AL IMRAN
+
 assistent Professor 
+
 American International University Bangladesh
