@@ -1,6 +1,6 @@
 # recipefinder
 
-A social blog website base on recipe and only making for food blogger.
+A social blog website based on recipe and only making for food blogger and simple guest users.
 
 technology used on that project HTML,CSS,Bootstrap,Laravel.
 
